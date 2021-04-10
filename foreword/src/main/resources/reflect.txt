@@ -1,0 +1,2 @@
+class=com.myos.reflex.dto.Service2
+method=doService2

@@ -1,0 +1,2 @@
+dog=com.myos.spi.service.impl.Dog
+cat=com.myos.spi.service.impl.Cat
